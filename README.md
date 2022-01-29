@@ -48,5 +48,7 @@ para se referir a mim pode usar qualquer pronome.
 
 <h2 <align="center">💖 thanks for reading! 💖
 <div> 
-    
+
+<img align="center" alt=hnbipy height="129" src="https://media.discordapp.net/attachments/821200514041511948/937109631954743316/pngegg_1.png?width=560&height=560" />
+    </div>
 
