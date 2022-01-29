@@ -23,7 +23,7 @@ para se referir a mim pode usar qualquer pronome.
  
 <div align="center">
 
-   ### programming Languages 
+   ### programming languages 
 <div align="center">
 
   <img align="center" alt=hnbipy height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,7 +31,7 @@ para se referir a mim pode usar qualquer pronome.
 <div align="center">
  
   
- ### engine
+ ### engines
  <div align="center">
  <img align="center" alt=hnbipy height="30" src="https://cdn.discordapp.com/attachments/821200514041511948/937059322666573845/PngItem_5356083.png" />
     </div>
