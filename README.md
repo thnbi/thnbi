@@ -1,16 +1,35 @@
-### Hi there 👋
+### oii 👋
 
-<!--
-**thnbi/thnbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pode se referir a mim em qualquer pronome.
 
-Here are some ideas to get you started:
+    
+- 🌱 atualmente estudo desenvolvimento de jogos e game design.
+- 🌱 i’m currently learning game design and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ##
+ 
+<div> 
+
+<div>
+  <a href="https://github.com/thnbi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+
+<div
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&show_icons=true&layout=compact&langs_count=7&theme=shades-of-purple"/>
+
+  ##
+ 
+<div align="center">
+
+   ### languages 
+<div align="center">
+
+  <img align="center" alt=hnbipy height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt=hnbicsharp height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<div align="center">
+  
+ ### main software
+ <div align="center">
+ <img align="center" alt=hnbipy height="30" src="https://cdn.discordapp.com/attachments/821200514041511948/937059322666573845/PngItem_5356083.png" />
+
