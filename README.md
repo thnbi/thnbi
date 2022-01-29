@@ -7,21 +7,9 @@ pode se referir a mim em qualquer pronome.
 <li>
 🌱 atualmente estudo desenvolvimento de jogos e game design.</li>
 <li/> 🌱 i’m currently learning game design and game development. 
-</div>
-<br>
-<div>
-</div>
-<br>
-<div>
-<div/>
-</div>
-<br>
-<div>
-</div>
-<br>
-<div>
-<div/>
 
+
+  ##
 
 <div>
   <a href="https://github.com/thnbi">
