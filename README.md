@@ -1,6 +1,5 @@
 ### oii 👋
 
-<br>
 
 pode se referir a mim em qualquer pronome.
 
