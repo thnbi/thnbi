@@ -1,19 +1,33 @@
 ### oii 👋
+<img align="right" alt="hanabi" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/821200514041511948/937080048396140584/download20220106172120.png?width=560&height=560">
+<br>
 
 pode se referir a mim em qualquer pronome.
 
-    
-- 🌱 atualmente estudo desenvolvimento de jogos e game design.
-- 🌱 i’m currently learning game design and game development.
 
-  
-  ##
- 
-<div> 
+<li>
+🌱 atualmente estudo desenvolvimento de jogos e game design.</li>
+<li/> 🌱 i’m currently learning game design and game development. 
+</div>
+<br>
+<div>
+</div>
+<br>
+<div>
+<div/>
+</div>
+<br>
+<div>
+</div>
+<br>
+<div>
+<div/>
+
 
 <div>
   <a href="https://github.com/thnbi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+   
 
 <div
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&show_icons=true&layout=compact&langs_count=7&theme=shades-of-purple"/>
@@ -22,14 +36,27 @@ pode se referir a mim em qualquer pronome.
  
 <div align="center">
 
-   ### languages 
+   ### programming Languages 
 <div align="center">
 
   <img align="center" alt=hnbipy height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt=hnbicsharp height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <div align="center">
+ 
   
- ### main software
+ ### engine
  <div align="center">
  <img align="center" alt=hnbipy height="30" src="https://cdn.discordapp.com/attachments/821200514041511948/937059322666573845/PngItem_5356083.png" />
+    </div>
+   
+##
+    
+   <div> 
+  <a href="https://www.instagram.com/re_hnbi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/hnbii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/thnbii" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.tiktok.com/@thnbi" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+ 
+   
+    
 
