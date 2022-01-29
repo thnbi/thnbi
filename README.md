@@ -1,5 +1,5 @@
 ### oii 👋
-<img align="right" alt="hanabi" height="160" style="border-radius:50px;" src="https://media.discordapp.net/attachments/821200514041511948/937080048396140584/download20220106172120.png?width=560&height=560">
+
 <br>
 
 pode se referir a mim em qualquer pronome.
