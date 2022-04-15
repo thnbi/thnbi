@@ -12,8 +12,8 @@ para se referir a mim pode usar qualquer pronome.
 
  <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
    
