@@ -4,8 +4,8 @@
 para se referir a mim pode usar qualquer pronome.
 
 
-<li>🌱 atualmente estudo desenvolvimento de jogos e desenvolvimento de softwares.</li>
-<li> 🌱 i’m currently learning software development and game development.</li> 
+<li>🌱 atualmente estudo desenvolvimento de software.</li>
+<li> 🌱 i’m currently learning software development.</li> 
 
 
   ##
