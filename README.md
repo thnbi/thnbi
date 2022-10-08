@@ -5,7 +5,7 @@
 
 hey there! welcome to my github! i'm a brazilian developer, and I have been a tech enthusiast for as long as I can remember. I enjoy to code, learn and work with new tech.  
 
-I am open to proposals and to collaborate on interesting projects
+I am open to proposals and to collaborate on interesting projects.
 
  <div align="center">
   <a href="https://github.com/thnbi">
@@ -51,7 +51,7 @@ I am open to proposals and to collaborate on interesting projects
 ---
 ## 👇  Current project
 
-I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a discord bot to help telecommunications students from IFSC
+I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a discord bot to help telecommunications students from IFSC.
 
 <img src="https://media.discordapp.net/attachments/821200514041511948/1028102790821715999/Frame_3.png">
 
