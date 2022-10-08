@@ -1,6 +1,5 @@
 <h1>oii, pode me chamar de <a href="https://github.com/thnbi">Renato</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> </h1>
 
-- 🌱 sou desenvolvedor front-end.
 - 🌱 i’m front-end developer.
 ## a little more about me...<img height="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
@@ -26,7 +25,8 @@ I am open to proposals and to collaborate on interesting projects
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-*__~ and much more ~__*
+<em><b>__~ and much more ~__</b></em>
+
 </div  align="center">
 
 <img align="right" height="300" style="margin-bottom: 20px" src="https://cdn.discordapp.com/attachments/821200514041511948/1028055247047897188/download_3.jpg">
@@ -49,12 +49,17 @@ I am open to proposals and to collaborate on interesting projects
 <br>
 
 ---
+## 👇  Current project
 
-<!--START_SECTION:waka-->
+I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a discord bot to help telecommunications students from IFSC
 
-<!--END_SECTION:waka-->
+<img src="https://media.discordapp.net/attachments/821200514041511948/1028102790821715999/Frame_3.png">
+
+🤖 aifbot é um bot de discord que foi criado para facilitar a vida de estudantes de telecomunicações.
 
 <div align="center" style="display: block">
   <h2> 💖 thanks for reading! 💖 </h2>
   <img height="129" src="https://media.discordapp.net/attachments/821200514041511948/937109631954743316/pngegg_1.png?width=560&height=560"/></div>
-  
+
+
+⬇️ <em>don't forget to check out my repos</em>
