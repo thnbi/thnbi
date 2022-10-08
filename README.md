@@ -55,8 +55,6 @@ I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a 
 
 <img src="https://media.discordapp.net/attachments/821200514041511948/1028102790821715999/Frame_3.png">
 
-🤖 aifbot é um bot de discord que foi criado para facilitar a vida de estudantes de telecomunicações.
-
 <div align="center" style="display: block">
   <h2> 💖 thanks for reading! 💖 </h2>
   <img height="129" src="https://media.discordapp.net/attachments/821200514041511948/937109631954743316/pngegg_1.png?width=560&height=560"/></div>
