@@ -49,7 +49,7 @@ I am open to proposals and to collaborate on interesting projects.
 <br>
 
 ---
-## 👇  Current project
+## 👇  current project
 
 I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a discord bot to help telecommunications students from IFSC.
 
