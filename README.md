@@ -7,10 +7,7 @@ hey there! welcome to my github! i'm a brazilian developer, and I have been a te
 
 I am open to proposals and to collaborate on interesting projects.
 
- <div align="center">
-  <a href="https://github.com/thnbi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=tokyonight" />
 
 <div align="center">
 
