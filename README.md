@@ -43,7 +43,9 @@ I am open to proposals and to collaborate on interesting projects.
 
 I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a discord bot to help telecommunications students from IFSC.
 
-<img src="https://media.discordapp.net/attachments/821200514041511948/1028102790821715999/Frame_3.png">
+<p align="center">
+ <a><img width="600" src="https://cdn.discordapp.com/attachments/821200514041511948/1050376234468655124/aifbotaifchatbotlogo2.png"/></a>
+</p>
 
 <div align="center" style="display: block">
   <h2> 💖 thanks for reading! 💖 </h2>
