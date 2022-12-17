@@ -13,7 +13,7 @@ I am open to proposals and to collaborate on interesting projects.
 
 ## 🧰  my toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,mongo,react,js,ts,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,mongo,nextjs,react,js,ts,git,github,figma)](https://skillicons.dev)
 
 <em><b>__~ and much more ~__</b></em>
 
