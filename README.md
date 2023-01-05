@@ -1,7 +1,7 @@
-<h1>oii, pode me chamar de <a href="https://github.com/thnbi">Renato</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="auto">  </h1>
+<h1>oii, pode me chamar de <a href="https://github.com/thnbi">Renato</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  </h1>
 
 - 🌱 i’m web developer.
-## a little more about me...<img height="40px" width="auto" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
+## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
 hey there! welcome to my github! i'm a brazilian developer, and I have been a tech enthusiast for as long as I can remember. I enjoy to code, learn and work with new tech.  
 
