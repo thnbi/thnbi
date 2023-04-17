@@ -5,11 +5,12 @@
 
 hey there! welcome to my github! i'm a brazilian developer, and I have been a tech enthusiast for as long as I can remember. I enjoy to code, learn and work with new tech.  
 
-I am open to proposals and to collaborate on interesting projects.
-
-<img width="460px" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=dracula" />
+I'm always on the lookout for exciting new projects to collaborate on, so if you have any proposals, feel free to reach out to me. Let's work together to create something amazing!
 
 <div align="center">
+
+<img width="460px" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=dracula" />
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&theme=dracula" />
 
 ## 🧰  my toolbox
 
@@ -19,37 +20,19 @@ I am open to proposals and to collaborate on interesting projects.
 
 </div  align="center">
 
-<img align="right" height="300" style="margin-bottom: 20px" src="https://cdn.discordapp.com/attachments/821200514041511948/1028055247047897188/download_3.jpg">
-
-## 📫 how to reach me?
-
-<li align="left"><a href="https://www.linkedin.com/in/renato-freitas-7b280a226">Linkedin</a></li>
-<li align="left" ><a href="mailto:renatofreitas1302@gmail.com">E-mail</a></li>
-</div>
-<li align="left"><a href="https://twitter.com/thnbii">Twitter</a></li>
-
 ## 📱 find me around the web
 
-<div align="center">
-<a href="https://www.instagram.com/re_hnbi/" target="_blank"><img height=28 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/hnbii" target="_blank"><img height=28 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/thnbii" target="_blank"><img height=28 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href="https://www.tiktok.com/@thnbi" target="_blank"><img height=29 src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
-</div>
+<img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI0NjZiZDEyYWNjNzkxYjk3ZTM0ODE4MmIwODllOWI2MzNmNDY2ZSZjdD1n/yALcFbrKshfoY/giphy.gif">
+
+<a href="https://www.instagram.com/re_hnbi/" target="_blank"><img height=40 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
+<a href="https://www.twitch.tv/hnbii" target="_blank"><img height=40 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a><br>
+<a href="https://twitter.com/thnbii" target="_blank"><img height=40 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><br>
+<a href="https://www.tiktok.com/@thnbi" target="_blank"><img height=40 src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+
 <br>
 
----
-## 👇  current project
-
-I'm currently working on [aifbot](https://github.com/aifbot/discord-chatbot). a discord bot to help telecommunications students from IFSC.
-
-<p align="center">
- <a><img width="600" src="https://cdn.discordapp.com/attachments/821200514041511948/1050376234468655124/aifbotaifchatbotlogo2.png"/></a>
-</p>
-
-<div align="center" style="display: block">
+<div align="center" style="display: block"><br>
   <h2> 💖 thanks for reading! 💖 </h2>
   <img height="129" src="https://media.discordapp.net/attachments/821200514041511948/937109631954743316/pngegg_1.png?width=560&height=560"/></div>
-
 
 ⬇️ <em>don't forget to check out my repos</em>
