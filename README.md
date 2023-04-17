@@ -5,7 +5,7 @@
 
 hey there! welcome to my github! i'm a brazilian developer, and I have been a tech enthusiast for as long as I can remember. I enjoy to code, learn and work with new tech.  
 
-i'm always on the lookout for exciting new projects to collaborate on, so if you have any proposals, feel free to reach out to me. Let's work together to create something amazing!
+i'm always on the lookout for exciting new projects to collaborate on, so if you have any proposals, feel free to reach out to me. let's work together to create something amazing!
 
 <div align="center">
 
