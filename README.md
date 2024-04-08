@@ -33,6 +33,5 @@ i'm always on the lookout for exciting new projects to collaborate on, so if you
 
 <div align="center" style="display: block"><br>
   <h2> 💖 thanks for reading! 💖 </h2>
-  <img height="129" src="https://media.discordapp.net/attachments/821200514041511948/937109631954743316/pngegg_1.png?width=560&height=560"/></div>
 
 ⬇️ <em>don't forget to check out my repos</em>
