@@ -14,7 +14,7 @@ i'm always on the lookout for exciting new projects to collaborate on, so if you
 
 ## 🧰  my toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,mongo,nextjs,react,js,ts,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,js,ts,cs,cpp,dotnet)](https://skillicons.dev)
 
 <em><b>__~ and much more ~__</b></em>
 
