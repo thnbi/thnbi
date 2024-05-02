@@ -24,9 +24,8 @@ i'm always on the lookout for exciting new projects to collaborate on, so if you
 
 <img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI0NjZiZDEyYWNjNzkxYjk3ZTM0ODE4MmIwODllOWI2MzNmNDY2ZSZjdD1n/yALcFbrKshfoY/giphy.gif">
 
-<a href="https://www.instagram.com/re_hnbi/" target="_blank"><img height=40 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
+<a href="https://www.instagram.com/hanaintherain/" target="_blank"><img height=40 src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 <a href="https://www.twitch.tv/hnbii" target="_blank"><img height=40 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a><br>
-<a href="https://twitter.com/thnbii" target="_blank"><img height=40 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><br>
 <a href="https://www.tiktok.com/@thnbi" target="_blank"><img height=40 src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 
 <br>
