@@ -30,7 +30,7 @@ i'm always on the lookout for exciting new projects to collaborate on, so if you
 
 <br>
 
-<div align="center" style="display: block"><br>
+<div align="center" style="display: block"><br><br>
   <h2> 💖 thanks for reading! 💖 </h2>
 
 ⬇️ <em>don't forget to check out my repos</em>
