@@ -1,7 +1,6 @@
 <h1>oii, pode me chamar de <a href="https://github.com/thnbi">Renato</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  </h1>
 
 - 🌱 software developer.
-- 📚 computer science degree student.
   
 ## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
