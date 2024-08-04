@@ -2,7 +2,7 @@
 
 - 🌱 software developer.
   
-## a little more about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
+## about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
 hey there! welcome to my github! i'm a brazilian developer, and I have been a tech enthusiast for as long as I can remember. I enjoy to code, learn and work with new tech.  
 
