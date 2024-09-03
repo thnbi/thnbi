@@ -2,12 +2,13 @@
 
 - 🌱 software developer.
 - 💻 tech enthusiast.
+- 📚 Software Analysis and Development Student (BTech)
  
 ## about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
-hey there! welcome to my github! i'm a brazilian developer, and I have been a tech enthusiast for as long as I can remember. I enjoy to code, learn and work with new tech.  
+i'm a Brazilian developer and lifelong tech enthusiast with a passion for coding, learning, and pushing the boundaries of what's possible. whether it's building innovative solutions or exploring the latest trends in technology, i'm always up for a challenge.
 
-i'm always on the lookout for exciting new projects to collaborate on, so if you have any proposals, feel free to reach out to me. let's work together to create something amazing!
+i'm constantly on the lookout for exciting projects and collaborations. got an idea? let's connect and create something extraordinary together!
 
 <div align="center">
 
