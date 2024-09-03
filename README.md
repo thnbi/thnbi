@@ -6,7 +6,7 @@
  
 ## about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
-i'm a Brazilian developer and lifelong tech enthusiast with a passion for coding, learning, and pushing the boundaries of what's possible. whether it's building innovative solutions or exploring the latest trends in technology, i'm always up for a challenge.
+i'm a brazilian developer and lifelong tech enthusiast with a passion for coding, learning, and pushing the boundaries of what's possible. whether it's building innovative solutions or exploring the latest trends in technology, i'm always up for a challenge.
 
 i'm constantly on the lookout for exciting projects and collaborations. got an idea? let's connect and create something extraordinary together!
 
