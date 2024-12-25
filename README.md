@@ -17,7 +17,7 @@ i'm constantly on the lookout for exciting projects and collaborations. got an i
 
   ## 🧰  my toolbox
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,js,ts,c,cs,java,dotnet)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,c,cs,java,dotnet)](https://skillicons.dev)
 
   <em><b>__~ and much more ~__</b></em>
 
