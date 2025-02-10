@@ -12,7 +12,7 @@ i'm constantly on the lookout for exciting projects and collaborations. got an i
 
 <div align="center">
 
-  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=transparent" />
+  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=transparent&rank_icon=github" />
   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&theme=transparent" />
 
   ## 🧰  my toolbox
