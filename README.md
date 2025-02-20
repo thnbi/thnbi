@@ -13,7 +13,10 @@ i'm constantly on the lookout for exciting projects and collaborations. got an i
 <div align="center">
 
   <img width="460px" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=transparent&rank_icon=github" />
-  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&theme=transparent" />
+  <img
+  width="350px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&theme=transparent&exclude_repo=Alura-One,hana-docs,CRUD,beauty-saloon-site,periodic-table,tela-de-cadastro,alura-newsletter,alura-plus-project"
+/>
 
   ## 🧰  my toolbox
 
