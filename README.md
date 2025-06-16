@@ -6,9 +6,9 @@
  
 ## about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
-I'm currently studying Software Analysis and Development and working as a software developer, with special interest in Artificial Intelligence, generative models (LLMs), reinforcement learning, and practical machine learning applications. I enjoy creating solutions that tackle real-world problems, particularly with Python, Java, and modern frameworks like PyTorch and TensorFlow. I also have experience building scalable solutions and MLOps automation pipelines.
+I study Software Analysis and Development and work as a AI software developer. My main interests include Artificial Intelligence, generative models (LLMs), reinforcement learning, and applied machine learning. I like building practical solutions for real-world challenges using Python, Java, and frameworks such as PyTorch and TensorFlow. I've also developed scalable systems and automated MLOps pipelines.
 
-I strongly value collaboration and knowledge sharing—feel free to reach out.
+I strongly value collaboration and knowledge sharing, feel free to reach out.
 <div align="center">
  
  ## 🧰  my toolbox
