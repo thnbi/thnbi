@@ -6,20 +6,14 @@
  
 ## about me...<img height="40px" width="40px" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif">
 
-i'm a brazilian coder with a passion for tech, creativity, and constant learning. i love diving into code, exploring innovative ideas, and keeping up with the latest trends in technology. for me, it's all about experimenting, pushing boundaries, and having fun while creating something cool.
+I'm currently studying Software Analysis and Development and working as a software developer, with special interest in Artificial Intelligence, generative models (LLMs), reinforcement learning, and practical machine learning applications. I enjoy creating solutions that tackle real-world problems, particularly with Python, Java, and modern frameworks like PyTorch and TensorFlow. I also have experience building scalable solutions and MLOps automation pipelines.
 
-always excited to connect and collaborate—let's build something extraordinary together!
+I strongly value collaboration and knowledge sharing—feel free to reach out.
 <div align="center">
+ 
+ ## 🧰  my toolbox
 
-  <img width="460px" src="https://github-readme-stats.vercel.app/api?username=thnbi&show_icons=true&theme=transparent&rank_icon=github" />
-  <img
-  width="350px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thnbi&layout=compact&theme=transparent&exclude_repo=Alura-One,hana-docs,CRUD,beauty-saloon-site,periodic-table,tela-de-cadastro,alura-newsletter,alura-plus-project"
-/>
-
-  ## 🧰  my toolbox
-
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,python,c,cs,java,dotnet)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,dotnet,tensorflow,pytorch,docker)](https://skillicons.dev)
 
   <em><b>__~ and much more ~__</b></em>
 
