@@ -13,7 +13,7 @@ I strongly value collaboration and knowledge sharing, feel free to reach out.
  
  ## 🧰  my toolbox
 
-  [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,dotnet,tensorflow,pytorch,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,tensorflow,pytorch,docker)](https://skillicons.dev)
 
   <em><b>__~ and much more ~__</b></em>
 
