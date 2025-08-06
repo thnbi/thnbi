@@ -4,7 +4,8 @@
 - 💻 Passionate about machine learning and emerging technologies.
 - 📚 Currently studying Software Analysis and Development.
 
- 
+ <div align="center">
+  
  ## 🧰  my toolbox
 
   [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,tensorflow,pytorch,docker)](https://skillicons.dev)
