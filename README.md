@@ -1,6 +1,6 @@
 <h1>oii, pode me chamar de <a href="https://github.com/thnbi">Renato</a>. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  </h1>
 
-- 🌱 AI Software developer.
+- 🌱 AI Engineer.
 - 💻 Passionate about machine learning and emerging technologies.
 - 📚 Currently studying Software Analysis and Development.
 
