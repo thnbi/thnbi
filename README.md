@@ -5,6 +5,12 @@
 - 🔍 I love solving complex problems with clean engineering and modern ML.
 - 🚀 Motivated by building useful products, learning fast and working with great teams.
 
+## feel free to reach out 🤝
+I'm always happy to connect, talk about AI, engineering, or cool ideas.
+
+📩 renato.hnbi@gmail.com  
+💼 https://www.linkedin.com/in/thnbi
+
 <div align="center">
   
 ## 🧰 my toolbox
