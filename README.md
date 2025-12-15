@@ -15,7 +15,7 @@ https://www.linkedin.com/in/thnbi
   
 ## my toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,linux,git,docker,tensorflow,pytorch,postgres,azure,raspberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,git,docker,tensorflow,pytorch,postgres,azure,raspberrypi,arduino)](https://skillicons.dev)
 
 <em><b>__~ and much more ~__</b></em>
 
